@@ -1,0 +1,3 @@
+SERVICE_NAME=test-service
+LOG_LEVEL=DEBUG
+LOG_FORMAT=json
