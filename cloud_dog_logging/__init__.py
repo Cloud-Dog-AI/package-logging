@@ -138,7 +138,7 @@ __all__ = [
     "HandlerType",
 ]
 
-__version__ = "0.4.0"
+__version__ = "0.4.1"
 
 _audit_logger: AuditLogger | None = None
 _redaction_engine: RedactionEngine | None = None
